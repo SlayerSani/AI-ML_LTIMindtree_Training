@@ -1,3 +1,4 @@
 Original GitHub Link by Trainer: https://github.com/Premalatha-success/LTI_batch1
 
 Day 01 DataSet CSV Link: https://raw.githubusercontent.com/Premalatha-success/Datasets/refs/heads/main/CardioGoodFitness-1.csv
+Day 02 DataSet CSV Link: https://raw.githubusercontent.com/Premalatha-success/Datasets/refs/heads/main/loan_prediction.csv
